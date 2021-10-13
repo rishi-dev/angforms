@@ -1,0 +1,32 @@
+simple HTML 
+How TO - Form with Multiple Steps
+https://www.w3schools.com/howto/howto_js_form_steps.asp
+
+
+Multi step form with material 
+https://stackblitz.com/angular/qlmgoydrvkl?file=src%2Fapp%2Fapp.component.ts
+
+
+Multi step form without material 
+https://medium.com/@hbilaiya2/angular-multi-step-form-with-reactive-forms-sorcery-f34cd0941e2c
+https://stackblitz.com/edit/angular-multi-step-reactive-form?embed=1&file=src/app/constants/multi-step-form.ts
+
+Split an Angular Reactive Form model into child components
+https://www.youtube.com/watch?v=2DOkiQFB5ic
+
+
+Angular Custom Form Controls: Complete Guide
+https://blog.angular-university.io/angular-custom-form-controls/
+
+Angular multi step 
+https://phpforever.com/angular/multi-step-form-in-angular/
+
+
+if required 
+Multi-Step Forms in Angular
+https://medium.com/ngconf/multi-step-forms-in-angular-6cd6330d7622
+
+
+
+
+
